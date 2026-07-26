@@ -6,7 +6,7 @@
 
 ### 프로젝트
 
-**[Audit Signal Agent](https://github.com/kjiwoo12/audit-signal-agent)** — 회계 이상징후 발굴 에이전트
+**[Audit Signal Agent](https://github.com/kjiwoo12/audit-signal-agent)** — 회계 이상징후 발굴 에이전트 ([산출물 감사조서 보기](https://kjiwoo12.github.io/audit-signal-agent/report/baseline.html))
 
 여러 시스템(총계정원장·판매·물류·원가·은행)에 흩어진 데이터를 교차 검증해, 개별 파일만 봐서는 보이지 않는 문제를 찾습니다. 감사 절차를 Skill 파일로 코드화하고, 모든 발견사항에 원본 전표번호를 근거로 붙입니다. 숫자 검증은 Python이, 가설 생성과 설명은 LLM이 담당하도록 경계를 나눴습니다.
 
